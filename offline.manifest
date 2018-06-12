@@ -4,7 +4,6 @@ expl.js
 homebrew.js
 kernel.js
 mira.js
-ping.js
 rop.js
 syscalls.js
 userland.js
